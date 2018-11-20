@@ -1,0 +1,43 @@
+body {
+	background-image: linear-gradient(to right, #00cc00, #006600);
+	text-decoration-color: white;
+}
+
+.restperiod {
+	background-image: linear-gradient(to right, #f70808, #cc0606);
+	text-decoration-color: white;
+}
+
+
+h1	{
+	color: white;
+	font-size: 22rem;
+	text-align: center;
+	text-shadow: 5px 5px 4px black;
+}
+
+@media(max-width: 1000px) {
+	h1  {
+	color: white;
+	font-size: 12rem;
+	text-align: center;
+	text-shadow: 5px 5px 4px black;
+    }
+}
+
+h3 {
+	color: white;
+	text-align: center;
+	font-size: 40px;
+    text-shadow: 2px 2px 3px black;
+}
+
+.card-body {
+	font-family: inherit;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+.border-3 {
+    border-width:5px !important;
+}
