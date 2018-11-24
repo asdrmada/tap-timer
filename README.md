@@ -1,8 +1,3 @@
-# tap-timer
-First project, A round timer used for martial arts built in JS.
-
----
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,5 +67,3 @@ First project, A round timer used for martial arts built in JS.
 <script src="assets/js/libs/jquery-3.3.1.min.js"></script>
 <script src="assets/js/roundtimer.js"></script>
 </html>
-
----
